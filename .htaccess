@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^student_login/$ ./student_login.php
+RewriteRule ^student_signup/$ ./student_signup.php
+RewriteRule ^admin_login/$ ./admin_login.php
